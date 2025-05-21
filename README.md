@@ -2,7 +2,6 @@
 ¡Atención, gamers de Colombia! 🎮 Gana una PlayStation 5 en nuestro sorteo exclusivo. Si buscas PS5 gratis, esta es tu oportunidad. Participa fácil y rápido.
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>🎁 ¡Gana una PlayStation 5 GRATIS en Colombia!</title>
   <meta name="description" content="¿Quieres una PlayStation 5 totalmente gratis? Participa ahora en nuestro sorteo exclusivo para Colombia. ⏳ ¡Ofertas limitadas!">
 </head>
 
