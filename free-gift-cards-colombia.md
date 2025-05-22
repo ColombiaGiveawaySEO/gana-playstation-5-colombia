@@ -1,3 +1,14 @@
+# 📋 Menú de Navegación
+
+- [🏠 Inicio](https://colombiagiveawayseo.github.io/gana-playstation-5-colombia/)
+- [ℹ️ Sobre Nosotros](about.md)
+- [🔒 Política de Privacidad](privacy.md)
+- [📞 Contacto](contact.md)
+
+---
+
+
+
 # 🆓 Cómo Obtener Tarjetas de Regalo Gratis en Colombia
 
 ¿Sabías que puedes conseguir tarjetas de regalo sin pagar nada? Aquí te explicamos cómo:
