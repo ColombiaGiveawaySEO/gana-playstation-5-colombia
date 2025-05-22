@@ -1,3 +1,14 @@
+---
+title: "Gana una PlayStation 5 en Colombia - Sorteo Gratis y Fácil"
+description: "Participa gratis para ganar una PlayStation 5 en Colombia. Solo necesitas ingresar tu email para entrar al sorteo. Oferta legítima, sin costo ni tarjeta de crédito requerida."
+keywords: "Gana PlayStation 5, sorteo gratis Colombia, regalos gratis, promociones Colombia, concursos online, ganar premios, ofertas CPA, regalos electrónicos, PlayStation Colombia"
+---
+
+# 🎁 ¡Gana una PlayStation 5 en Colombia!
+
+[Tu contenido aquí...]
+
+
 # 📋 Menú de Navegación
 
 - [🏠 Inicio](https://colombiagiveawayseo.github.io/gana-playstation-5-colombia/)
