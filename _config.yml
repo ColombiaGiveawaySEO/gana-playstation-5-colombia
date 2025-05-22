@@ -1,2 +1,13 @@
+# _config.yml for GitHub Pages
+title: Gana una PlayStation 5 en Colombia
+description: Participa gratis para ganar una PS5. Solo necesitas tu email. Sin tarjeta de crédito. Sorteo legítimo en Colombia.
 theme: minima
+lang: es-CO
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+# Optional URL structure (GitHub Pages auto-handles this)
+permalink: pretty
+
 
