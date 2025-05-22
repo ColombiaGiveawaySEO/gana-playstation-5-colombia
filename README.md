@@ -1,4 +1,6 @@
 # 🎁 ¡Gana una PlayStation 5 GRATIS en Colombia 
+**✅ Solo por ingresar tu correo electrónico | ⏳ ¡Por tiempo limitado en Colombia!**
+
 ¡Atención, gamers de Colombia! 🎮 Gana una PlayStation 5 en nuestro sorteo exclusivo. Si buscas PS5 gratis, esta es tu oportunidad. Participa fácil y rápido.
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -59,16 +61,27 @@ Esta campaña forma parte de un programa de promoción digital por parte de nues
 
 ---
 
-## ℹ️ Preguntas Frecuentes
+## 🧠 Preguntas Frecuentes (FAQ)
 
-**¿Es realmente gratis?**  
-Sí. Solo necesitas enviar tus datos (email o código postal) y seguir las instrucciones.
+### ❓ ¿Es legítima esta oferta?
+**✅ Sí.** Todas las ofertas provienen de redes confiables. No se necesita tarjeta de crédito ni pagos ocultos.
 
-**¿Cuándo recibiré la consola?**  
-Los ganadores se notifican cada semana por correo electrónico.
+### ❓ ¿Tengo que pagar algo?
+**🚫 No.** Esta oferta es completamente gratuita. Solo necesitas ingresar tu correo electrónico para participar.
 
-**¿Puedo participar más de una vez?**  
-Una sola participación por persona. ¡Aumenta tus chances compartiendo!
+### ❓ ¿Realmente puedo ganar una PlayStation 5?
+**🎁 ¡Sí!** Muchos usuarios han ganado en promociones como esta. Las ofertas son limitadas, así que actúa rápido.
+
+### ❓ ¿Qué necesito para participar?
+Solo necesitas una conexión a internet y una dirección de correo electrónico válida.
+
+### ❓ ¿Esta promoción es solo para Colombia?
+Sí, esta promoción está optimizada para usuarios en **Colombia**, aunque algunas ofertas pueden estar disponibles en otros países.
+
+### ❓ ¿Qué pasa después de ingresar mi correo?
+Serás redirigido a la página oficial del sorteo donde completarás tu participación. Revisa bien cada paso para asegurarte de ser elegible.
+
+
 
 ---
 ## 🔗 Enlaces Útiles
