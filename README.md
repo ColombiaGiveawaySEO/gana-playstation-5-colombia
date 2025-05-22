@@ -1,3 +1,11 @@
+# 📋 Menú de Navegación
+
+- [🏠 Inicio](https://colombiagiveawayseo.github.io/gana-playstation-5-colombia/)
+- [ℹ️ Sobre Nosotros](about.md)
+- [🔒 Política de Privacidad](privacy.md)
+- [📞 Contacto](contact.md)
+
+
 # 🎁 ¡Gana una PlayStation 5 GRATIS en Colombia 
 **✅ Solo por ingresar tu correo electrónico | ⏳ ¡Por tiempo limitado en Colombia!**
 
