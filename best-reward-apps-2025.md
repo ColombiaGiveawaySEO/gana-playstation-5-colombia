@@ -1,3 +1,14 @@
+# 📋 Menú de Navegación
+
+- [🏠 Inicio](https://colombiagiveawayseo.github.io/gana-playstation-5-colombia/)
+- [ℹ️ Sobre Nosotros](about.md)
+- [🔒 Política de Privacidad](privacy.md)
+- [📞 Contacto](contact.md)
+
+---
+
+
+
 # 🏆 Mejores Apps de Recompensas en 2025 (Colombia)
 
 Aquí tienes las apps que realmente están pagando en 2025:
