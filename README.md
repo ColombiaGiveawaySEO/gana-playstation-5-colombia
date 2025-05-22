@@ -4,7 +4,7 @@ description: "Participa gratis para ganar una PlayStation 5 en Colombia. Solo ne
 keywords: "Gana PlayStation 5, sorteo gratis Colombia, regalos gratis, promociones Colombia, concursos online, ganar premios, ofertas CPA, regalos electrónicos, PlayStation Colombia"
 ---
 
-# 🎁 ¡Gana una PS en Colombia!
+# 🎁 ¡Gana una PS5 en Colombia!
 
 
 
