@@ -30,50 +30,19 @@
       margin-bottom: 1rem;
     }
 
-    form {
-      display: flex;
-      flex-direction: column;
-    }
-
-    label {
-      margin-bottom: 0.5rem;
-      font-weight: bold;
-    }
-
-    input,
-    textarea {
-      padding: 0.75rem;
-      margin-bottom: 1rem;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      font-size: 1rem;
-    }
-
-    button {
-      background-color: #0070f3;
-      color: #fff;
-      padding: 0.75rem;
-      border: none;
-      border-radius: 8px;
-      font-size: 1rem;
-      cursor: pointer;
-      transition: background-color 0.3s;
-    }
-
-    button:hover {
-      background-color: #0056c7;
-    }
-
-    @media (max-width: 600px) {
-      .container {
-        padding: 1rem;
-      }
-    }
-
-    .note {
+    p {
+      font-size: 1.1rem;
       text-align: center;
-      font-size: 0.9rem;
-      color: #666;
+    }
+
+    .email {
+      display: block;
+      text-align: center;
+      margin-top: 1rem;
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #0070f3;
+      word-break: break-word;
     }
 
     nav {
@@ -91,6 +60,16 @@
     nav a:hover {
       text-decoration: underline;
     }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+
+      .email {
+        font-size: 1rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -102,22 +81,9 @@
     </nav>
 
     <h1>📞 Contáctanos</h1>
-    <p>¿Tienes preguntas sobre la promoción? ¡Estamos aquí para ayudarte!</p>
+    <p>¿Tienes preguntas sobre la promoción? Escríbenos a:</p>
 
-    <form name="contact" method="POST" data-netlify="true">
-      <label for="name">Nombre</label>
-      <input type="text" id="name" name="name" required>
-
-      <label for="email">Correo Electrónico</label>
-      <input type="email" id="email" name="email" required>
-
-      <label for="message">Mensaje</label>
-      <textarea id="message" name="message" rows="5" required></textarea>
-
-      <button type="submit">Enviar Mensaje</button>
-    </form>
-
-    <p class="note">Responderemos tu mensaje lo antes posible.</p>
+    <a class="email" href="mailto:mvtecontact@gmail.com">mvtecontact@gmail.com</a>
   </div>
 </body>
 </html>
